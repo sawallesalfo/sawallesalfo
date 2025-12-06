@@ -21,4 +21,3 @@
 
 [<img src="https://img.shields.io/badge/Gmail-salif.sawadogo.pro@gmail.com-informational?style=for-the-badge&labelColor=black&logo=gmail&logoColor=29bb89&&color=29bb89"/>][gmail]
 
-[gmail]: mailto:salif.sawadogo.pro@gmail.com
