@@ -19,5 +19,4 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sawallesalfo&theme=tokyonight" />
 </p>
 
-[<img src="https://img.shields.io/badge/Gmail-salif.sawadogo.pro@gmail.com-informational?style=for-the-badge&labelColor=black&logo=gmail&logoColor=29bb89&&color=29bb89"/>][gmail]
 
